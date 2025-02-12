@@ -18,6 +18,6 @@ $ composer require gearmagicru/gm-be-references-desk
     "gearmagicru/gm-be-references-desk": "*"
 }
 ```
-или скачать архив на [странице модуля](https://apps.gearmagic.ru/component/gm-be-references-desk) в каталоге приложений GearMagic.
+или скачать архив на [странице расширения модуля](https://apps.gearmagic.ru/component/gm-be-references-desk) в каталоге приложений GearMagic.
 
 После добавления модуля в проект, воспользуйтесь Панелью управления GM Panel для установки его в редакцию вашего веб-приложения.
